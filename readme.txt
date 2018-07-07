@@ -11,3 +11,8 @@ My stupid boss still prefers SVN.
 Creating a new branch is quick AND simple（修改）（101）.
 1
 1111
+/*****************************
+我是好人哈哈哈
+么么哒
+呵呵哒
+*****************************/
